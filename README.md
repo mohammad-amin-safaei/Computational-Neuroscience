@@ -1,2 +1,2 @@
-# Computational-Neuroscience
+Computational-Neuroscience
 **Project**
